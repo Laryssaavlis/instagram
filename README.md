@@ -1,2 +1,2 @@
-# Instagram
-Desafio de projeto dio, onde tive que recriar a pagina de login do instagram. 
+# instagram
+Projeto de criação da interface de login do instagram, usando apenas html e css
